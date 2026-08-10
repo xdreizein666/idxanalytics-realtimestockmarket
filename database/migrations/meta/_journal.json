@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1785913067461,
+      "tag": "0000_soft_gravity",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1785985156433,
+      "tag": "0001_uneven_mercury",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1786119901788,
+      "tag": "0002_equal_mole_man",
+      "breakpoints": true
+    }
+  ]
+}

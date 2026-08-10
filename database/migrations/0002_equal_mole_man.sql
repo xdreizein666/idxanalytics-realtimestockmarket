@@ -1,0 +1,1 @@
+ALTER TABLE "idx_financial_ratios" ADD COLUMN "dividend_yield" double precision;
